@@ -1,0 +1,29 @@
+
+.titulo-section-conteudo{
+    margin-top: 16px;
+    font-size: 5vh;
+    font-weight: medium;
+    margin-bottom: 16px;
+}
+
+.subtitulo-section-conteudo{
+    font-size: 3vh;
+    font-weight: medium;
+    margin-bottom: 16px;
+}
+
+.texto-section-conteudo{
+    font-size: 2vh;
+    font-weight: medium;
+    line-height: 35px;
+}
+
+.section-text{
+    
+    text-align: center;
+}
+
+.container {
+    width: 96%;
+    margin: 0 auto;
+}

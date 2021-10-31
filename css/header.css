@@ -1,0 +1,74 @@
+.button-item{
+    background-color: rgba(0, 0, 0, 0.226);
+    color: #fff;
+    border-radius: 4px;
+    font-size: 3vh;
+    margin: 0 2px 32px 0;
+    text-decoration: none;
+    transition: 0.5s;
+}
+.button-item:hover{
+    background-color: #48A3A6;
+    transition: 1s;
+    
+}
+
+.link-item{
+    padding: 16px;
+    color: #fff;
+}
+
+ul{
+display: flex; 
+justify-content: center;
+flex-wrap: wrap;
+}
+.header{
+    height: 35vh;
+    text-align: center;
+    background-image: url("../img/destaque.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    padding-top: 32px;
+}
+.navbar{
+    text-align: center;
+}
+.link-item{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.aluraconf{
+    flex: 0 0 120px;
+}
+
+.titulo{
+    text-decoration: none;
+    text-transform: uppercase;
+    text-shadow: 2px 2px #000000;
+    font-size: 5vw;
+    color: #fff;
+}
+
+.subtitulo{
+    color:aquamarine;
+    font-size: 7vh;
+    text-shadow: 2px 2px #000000;
+}
+
+.div-botao{
+    margin-top: 4vh;
+    text-transform: uppercase;
+    
+}
+
+.button{
+    margin: 5px;
+    padding: 20px;
+    color: #fff;
+    background-color: #48A3A6;
+    border-radius: 8px;
+    text-decoration: none;
+}

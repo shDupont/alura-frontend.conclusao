@@ -1,0 +1,41 @@
+.formulario-titulo{
+    margin-top: 32px;
+    font-size: 32px;
+    color: #EF7247;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.divisao{
+    margin-bottom: 16px;
+}
+
+.formulario-label{
+    display: block;
+    font-size: 2vh;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.formulario-input{
+    display: block;
+    width: 100%;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px #48A2A6; 
+}
+
+.botao-inscrever{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 1vh 1vh;
+    background-color: #48A2A6;
+    border-radius: 8px;
+}
+
+.center{
+    text-align: center;
+}
